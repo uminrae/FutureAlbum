@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-blue.svg" alt="Compose">
   <img src="https://img.shields.io/badge/Target%20SDK-35-orange.svg" alt="Target SDK">
   <img src="https://img.shields.io/badge/Release-v8.12.0-brightgreen.svg" alt="Latest Release">
-  <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
 </p>
 
 ---
@@ -147,7 +147,7 @@ app/src/main/java/com/example/phototag/
 - **合规使用提示**：项目中提供的 EXIF 元数据擦除与伪装功能旨在协助用户规避社交网络中潜在的隐私泄露风险（如经纬度或拍摄设备追踪）。请使用者在遵守适用的法律法规与平台守则的前提下合规使用，切勿用于违法欺诈或侵害他人权益的行为。使用者因非正常或违规操作引发的任何纠纷均由使用者自行承担。
 
 ### 3. 📄 开源许可证 (License)
-本项目基于 [Apache License 2.0](LICENSE) 协议开源。在遵守开源协议的前提下，允许自由学习、修改和衍生分发。
+本项目基于 [MIT License (麻省理工学院开源许可证)](LICENSE) 协议开源。在保留原作者版权声明的前提下，允许任何人自由免费使用、修改、分发、整合及用于商业项目。
 
 ---
 
