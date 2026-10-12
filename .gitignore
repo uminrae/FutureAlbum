@@ -1,0 +1,27 @@
+# Android / Gradle Build Artifacts
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+*.ap_
+
+# App Module Build
+app/build/
+
+# Kotlin
+.kotlin/
+.kotlin/cache/
+
+# Development / Scratch / Intermediate Testing Files
+/scratch/
+scratch_*.py
+kanji_*.png
+render_*.png
+.agents/

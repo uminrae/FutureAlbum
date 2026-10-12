@@ -1,0 +1,1753 @@
+{
+ "ndfilter": [
+  {
+   "type": "image",
+   "path": "img_nd01.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "image",
+   "path": "img_nd02.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "image",
+   "path": "img_nd03.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "social",
+   "avator": "@ameliestroblofficial.png",
+   "name": "Amelie Strobl",
+   "ins": "ameliestroblofficial",
+   "height": 126.0
+  }
+ ],
+ "fisheye": [
+  {
+   "type": "image",
+   "path": "fisheyef_01.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "fisheyef_02.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "image",
+   "path": "fisheyef_03.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "fisheyef_04.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "flashc": [
+  {
+   "type": "image",
+   "path": "flashc_01.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "image",
+   "path": "flashc_02.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "flashc_03.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "image",
+   "path": "flashc_04.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "stars": [
+  {
+   "type": "image",
+   "path": "img_star01.jpg",
+   "ratio": 0.6667
+  },
+  {
+   "type": "image",
+   "path": "img_star02.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_star03.jpg",
+   "ratio": 0.6667
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "prism": [
+  {
+   "type": "image",
+   "path": "img_prism_01.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "image",
+   "path": "img_prism_02.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_prism_03.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "fisheyew": [
+  {
+   "type": "image",
+   "path": "img_fisheyew_01.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "image",
+   "path": "img_fisheyew_02.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "image",
+   "path": "img_fisheyew_03.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "dclassic": [
+  {
+   "type": "image",
+   "path": "img_dclassic_01.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_dclassic_02.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_dclassic_03.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "social",
+   "avator": "@ameliestroblofficial.png",
+   "name": "Amelie Strobl",
+   "ins": "ameliestroblofficial",
+   "height": 126.0
+  }
+ ],
+ "dblack": [
+  {
+   "type": "image",
+   "path": "img_dblack06.jpg",
+   "ratio": 1.435
+  },
+  {
+   "type": "image",
+   "path": "img_dblack07.jpg",
+   "ratio": 1.435
+  },
+  {
+   "type": "image",
+   "path": "img_dblack08.jpg",
+   "ratio": 1.435
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  },
+  {
+   "type": "image",
+   "path": "img_dblackc09.jpg",
+   "ratio": 1.435
+  },
+  {
+   "type": "image",
+   "path": "img_dblackc10.jpg",
+   "ratio": 1.435
+  },
+  {
+   "type": "image",
+   "path": "img_dblackc11.jpg",
+   "ratio": 1.435
+  },
+  {
+   "type": "image",
+   "path": "img_dblackc12.jpg",
+   "ratio": 1.435
+  },
+  {
+   "type": "social",
+   "avator": "@renesuxa.png",
+   "name": "renesuxa",
+   "ins": "renesuxa",
+   "height": 126.0
+  },
+  {
+   "type": "image",
+   "path": "img_dblackc13.jpg",
+   "ratio": 1.435
+  },
+  {
+   "type": "image",
+   "path": "img_dblackc14.jpg",
+   "ratio": 1.435
+  },
+  {
+   "type": "social",
+   "avator": "@renesuxa.png",
+   "name": "renesuxa",
+   "ins": "renesuxa",
+   "height": 126.0
+  },
+  {
+   "type": "image",
+   "path": "img_dblackc08.jpg",
+   "ratio": 1.435
+  },
+  {
+   "type": "image",
+   "path": "img_dblack09.jpg",
+   "ratio": 1.435
+  },
+  {
+   "type": "social",
+   "avator": "manufearless.png",
+   "name": "Manu Cuevas",
+   "ins": "manufearless",
+   "height": 126.0
+  }
+ ],
+ "ct2f": [
+  {
+   "type": "image",
+   "path": "img_ct2f_01.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_ct2f_02.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_ct2f_03.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "original": [
+  {
+   "type": "image",
+   "path": "img_original_1_1.jpg",
+   "ratio": 0.408,
+   "spacing": 0
+  },
+  {
+   "type": "image",
+   "path": "img_original_1_2.jpg",
+   "ratio": 0.408,
+   "spacing": 0
+  },
+  {
+   "type": "image",
+   "path": "img_original_1_3.jpg",
+   "ratio": 0.408,
+   "spacing": 16
+  },
+  {
+   "type": "image",
+   "path": "img_original_2_1.jpg",
+   "ratio": 0.408,
+   "spacing": 0
+  },
+  {
+   "type": "image",
+   "path": "img_original_2_2.jpg",
+   "ratio": 0.408,
+   "spacing": 0
+  },
+  {
+   "type": "image",
+   "path": "img_original_2_3.jpg",
+   "ratio": 0.408,
+   "spacing": 16
+  },
+  {
+   "type": "image",
+   "path": "img_original_3_1.jpg",
+   "ratio": 0.408,
+   "spacing": 0
+  },
+  {
+   "type": "image",
+   "path": "img_original_3_2.jpg",
+   "ratio": 0.408,
+   "spacing": 0
+  },
+  {
+   "type": "image",
+   "path": "img_original_3_3.jpg",
+   "ratio": 0.408,
+   "spacing": 0
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "135ne": [
+  {
+   "type": "image",
+   "path": "img_135ne01.jpg",
+   "ratio": 1.158
+  },
+  {
+   "type": "image",
+   "path": "img_135ne02.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "image",
+   "path": "img_135ne03.jpg",
+   "ratio": 2.04
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  },
+  {
+   "type": "image",
+   "path": "img_135ne04.jpg",
+   "ratio": 1.158
+  },
+  {
+   "type": "image",
+   "path": "img_135ne05.jpg",
+   "ratio": 1.158
+  },
+  {
+   "type": "social",
+   "avator": "@anskybroo.png",
+   "name": "Arthur An",
+   "ins": "anskybroo",
+   "height": 126.0
+  }
+ ],
+ "dexp": [
+  {
+   "type": "image",
+   "path": "img_dexp_06.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "image",
+   "path": "img_dexp_07.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_dexp_08.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "instc": [
+  {
+   "type": "image",
+   "path": "img_instc01.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_instc02.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_instc03.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_instc04.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "instsq": [
+  {
+   "type": "image",
+   "path": "img_instsq01.jpg",
+   "ratio": 1.25
+  },
+  {
+   "type": "image",
+   "path": "img_instsq02.jpg",
+   "ratio": 1.25
+  },
+  {
+   "type": "image",
+   "path": "img_instsq03.jpg",
+   "ratio": 1.25
+  },
+  {
+   "type": "image",
+   "path": "img_instsq04.jpg",
+   "ratio": 1.25
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "instsqc": [
+  {
+   "type": "image",
+   "path": "img_instsqc01.jpg",
+   "ratio": 1.25
+  },
+  {
+   "type": "image",
+   "path": "img_instsqc02.jpg",
+   "ratio": 1.25
+  },
+  {
+   "type": "image",
+   "path": "img_instsqc03.jpg",
+   "ratio": 1.25
+  },
+  {
+   "type": "image",
+   "path": "img_instsqc04.jpg",
+   "ratio": 1.25
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "nt16": [
+  {
+   "type": "image",
+   "path": "img_nt16_01.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "image",
+   "path": "img_nt16_02.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_nt16_03.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_nt16_04.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "sclassic": [
+  {
+   "type": "image",
+   "path": "img_sclassic06.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "image",
+   "path": "img_sclassic07.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "image",
+   "path": "img_sclassic08.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "social",
+   "avator": "khuijo.png",
+   "name": "khuijo",
+   "ins": "khuijo",
+   "height": 126.0
+  },
+  {
+   "type": "image",
+   "path": "img_sclassic09.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "image",
+   "path": "img_sclassic10.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "image",
+   "path": "img_sclassic11.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "social",
+   "avator": "manufearless.png",
+   "name": "Manu Cuevas",
+   "ins": "manufearless",
+   "height": 126.0
+  },
+  {
+   "type": "image",
+   "path": "img_sclassic12.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "image",
+   "path": "img_sclassic13.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "social",
+   "avator": "anfernee_23.png",
+   "name": "Anfernee Bahe",
+   "ins": "anfernee_23",
+   "height": 126.0
+  }
+ ],
+ "vinstss": [
+  {
+   "type": "image",
+   "path": "img_instss01.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "image",
+   "path": "img_instss02.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "image",
+   "path": "img_instss03.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "image",
+   "path": "img_instss04.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "image",
+   "path": "img_instss05.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "d3d": [
+  {
+   "type": "image",
+   "path": "img_d3d01.gif",
+   "ratio": 1.33
+  },
+  {
+   "type": "image",
+   "path": "img_d3d02.gif",
+   "ratio": 1.33
+  },
+  {
+   "type": "image",
+   "path": "img_d3d03.gif",
+   "ratio": 1.33
+  },
+  {
+   "type": "image",
+   "path": "img_d3d04.gif",
+   "ratio": 1.33
+  },
+  {
+   "type": "social",
+   "avator": "@alissaboooth.png",
+   "name": "alissa booth",
+   "ins": "alissaboothh",
+   "tiktok": "4hQT6s",
+   "height": 126.0
+  }
+ ],
+ "dhalf": [
+  {
+   "type": "image",
+   "path": "img_dhalf01.jpg",
+   "ratio": 0.75
+  },
+  {
+   "type": "image",
+   "path": "img_dhalf02.jpg",
+   "ratio": 0.75
+  },
+  {
+   "type": "image",
+   "path": "img_dhalf03.jpg",
+   "ratio": 0.75
+  },
+  {
+   "type": "image",
+   "path": "img_dhalf04.jpg",
+   "ratio": 0.75
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  },
+  {
+   "type": "image",
+   "path": "img_dhalf05.jpg",
+   "ratio": 0.75
+  },
+  {
+   "type": "social",
+   "avator": "@vilainegarcon.png",
+   "name": "vilainegarcon",
+   "ins": "vilainegarcon",
+   "height": 126.0
+  }
+ ],
+ "dslide": [
+  {
+   "type": "image",
+   "path": "img_dslide01.jpg",
+   "ratio": 0.939
+  },
+  {
+   "type": "image",
+   "path": "img_dslide02.jpg",
+   "ratio": 0.939
+  },
+  {
+   "type": "image",
+   "path": "img_dslide03.jpg",
+   "ratio": 0.939
+  },
+  {
+   "type": "image",
+   "path": "img_dslide04.jpg",
+   "ratio": 0.939
+  },
+  {
+   "type": "image",
+   "path": "img_dslide05.jpg",
+   "ratio": 0.939
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "dfuns": [
+  {
+   "type": "image",
+   "path": "img_dfuns07.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_dfuns08.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "social",
+   "avator": "@sofibrll.png",
+   "name": "sofibrll",
+   "ins": "sofibrll",
+   "height": 126.0
+  },
+  {
+   "type": "image",
+   "path": "img_dfuns04.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_dfuns05.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_dfuns06.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "social",
+   "avator": "@hoogewagon.png",
+   "name": "hoogewagon",
+   "ins": "hoogewagon",
+   "height": 126.0
+  }
+ ],
+ "ir": [
+  {
+   "type": "image",
+   "path": "img_ir01.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_ir02.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "image",
+   "path": "img_ir03.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_ir04.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "classicu": [
+  {
+   "type": "image",
+   "path": "img_classicu01.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_classicu02.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_classicu03.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  },
+  {
+   "type": "image",
+   "path": "img_classicu04.jpg",
+   "ratio": 1.333
+  },
+  {
+   "type": "social",
+   "avator": "@fefolino.png",
+   "name": "Fernando Cahnfeld",
+   "ins": "fefolino",
+   "height": 126.0
+  }
+ ],
+ "hoga": [
+  {
+   "type": "image",
+   "path": "img_hoga07.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "image",
+   "path": "img_hoga08.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "social",
+   "avator": "@Melantha.png",
+   "name": "Melantha",
+   "ins": "clicktheshutterpls",
+   "height": 126.0
+  },
+  {
+   "type": "image",
+   "path": "img_hoga06.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "social",
+   "avator": "@Daviid.png",
+   "name": "Daviid",
+   "ins": "barraganc7",
+   "height": 126.0
+  },
+  {
+   "type": "image",
+   "path": "img_hoga05.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "social",
+   "avator": "@dennise.png",
+   "name": "dennise",
+   "ins": "dennisell06",
+   "height": 126.0
+  }
+ ],
+ "dqs": [
+  {
+   "type": "image",
+   "path": "img_dqs01.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_dqs02.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "image",
+   "path": "img_dqs03.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_dqs04.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "s67": [
+  {
+   "type": "image",
+   "path": "img_s6701.jpg",
+   "ratio": 1.1835
+  },
+  {
+   "type": "image",
+   "path": "img_s6702.jpg",
+   "ratio": 1.1835
+  },
+  {
+   "type": "image",
+   "path": "img_s6703.jpg",
+   "ratio": 0.845
+  },
+  {
+   "type": "image",
+   "path": "img_s6704.jpg",
+   "ratio": 1.1835
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "collage": [
+  {
+   "type": "image",
+   "path": "img_collage02.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "social",
+   "avator": "@foxnotlie.png",
+   "name": "foxnotlie",
+   "ins": "foxnotlie",
+   "height": 126.0
+  },
+  {
+   "type": "image",
+   "path": "img_collage01.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "slidep": [
+  {
+   "type": "image",
+   "path": "img_slidep01.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "image",
+   "path": "img_slidep02.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "image",
+   "path": "img_slidep03.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "golf": [
+  {
+   "type": "video",
+   "path": "video_golf01.mp4",
+   "cover": "cover_golf01.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  },
+  {
+   "type": "video",
+   "path": "video_golf02.mp4",
+   "cover": "cover_golf02.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "social",
+   "avator": "elvinaraharja.png",
+   "name": "elvina raharja",
+   "ins": "elvinanr",
+   "height": 126.0
+  },
+  {
+   "type": "video",
+   "path": "img_golf03.mp4",
+   "cover": "cover_golf03.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "social",
+   "avator": "@tatakaky.png",
+   "name": "tatakaky",
+   "ins": "tatakaky",
+   "height": 126.0
+  }
+ ],
+ "ccdr": [
+  {
+   "type": "image",
+   "path": "img_ccdr01.jpg",
+   "ratio": 1.333
+  },
+  {
+   "type": "image",
+   "path": "img_ccdr02.jpg",
+   "ratio": 1.333
+  },
+  {
+   "type": "image",
+   "path": "img_ccdr03.jpg",
+   "ratio": 1.333
+  },
+  {
+   "type": "image",
+   "path": "img_ccdr04.jpg",
+   "ratio": 1.333
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "cpm35": [
+  {
+   "type": "image",
+   "path": "img_cpm35_01.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "image",
+   "path": "img_cpm35_02.jpg",
+   "ratio": 1.5
+  },
+  {
+   "type": "image",
+   "path": "img_cpm35_03.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "image",
+   "path": "img_cpm35_04.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "135sr": [
+  {
+   "type": "image",
+   "path": "img_135sr_01.jpg",
+   "ratio": 0.42
+  },
+  {
+   "type": "image",
+   "path": "img_135sr_02.jpg",
+   "ratio": 0.42
+  },
+  {
+   "type": "image",
+   "path": "img_135sr_03.jpg",
+   "ratio": 0.795
+  },
+  {
+   "type": "image",
+   "path": "img_135sr_04.jpg",
+   "ratio": 0.795
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "srx": [
+  {
+   "type": "image",
+   "path": "img_135sr_01.jpg",
+   "ratio": 0.42
+  },
+  {
+   "type": "image",
+   "path": "img_135sr_02.jpg",
+   "ratio": 0.42
+  },
+  {
+   "type": "image",
+   "path": "img_135sr_03.jpg",
+   "ratio": 0.795
+  },
+  {
+   "type": "image",
+   "path": "img_135sr_04.jpg",
+   "ratio": 0.795
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "grdr": [
+  {
+   "type": "image",
+   "path": "img_grdr_01.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "image",
+   "path": "img_grdr_02.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "image",
+   "path": "img_grdr_03.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "image",
+   "path": "img_grdr_04.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "puli": [
+  {
+   "type": "image",
+   "path": "img_puli_1.jpg",
+   "ratio": 0.75
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "kv88": [
+  {
+   "type": "image",
+   "path": "img_KV88R_01.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "image",
+   "path": "img_KV88R_02.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "image",
+   "path": "img_KV88R_03.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "image",
+   "path": "img_KV88R_04.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "kv80": [
+  {
+   "type": "image",
+   "path": "img_KV88R_01.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "image",
+   "path": "img_KV88R_02.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "image",
+   "path": "img_KV88R_03.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "image",
+   "path": "img_KV88R_04.jpg",
+   "ratio": 1.0
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "fxn": [
+  {
+   "type": "image",
+   "path": "img_FXNR_01.jpg",
+   "ratio": 0.75
+  },
+  {
+   "type": "image",
+   "path": "img_FXNR_02.jpg",
+   "ratio": 1.41
+  },
+  {
+   "type": "image",
+   "path": "img_FXNR_03.jpg",
+   "ratio": 0.75
+  },
+  {
+   "type": "image",
+   "path": "img_FXNR_04.jpg",
+   "ratio": 1.41
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "fqs": [
+  {
+   "type": "image",
+   "path": "img_FQS_01.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "image",
+   "path": "img_FQS_02.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "image",
+   "path": "img_FQS_03.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "image",
+   "path": "img_FQS_04.jpg",
+   "ratio": 0.667
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "dam": [
+  {
+   "type": "image",
+   "path": "img_DAM_01.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "image",
+   "path": "img_DAM_02.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "image",
+   "path": "img_DAM_03.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "image",
+   "path": "img_DAM_04.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  },
+  {
+   "type": "image",
+   "path": "img_DAM_GRDP_01.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "image",
+   "path": "img_DAM_GRDP_02.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "image",
+   "path": "img_DAM_GRDP_03.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "title": "GRDP",
+   "icon": "icon_sample_color",
+   "height": 126.0
+  },
+  {
+   "type": "image",
+   "path": "img_DAM_VS2_01.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "image",
+   "path": "img_DAM_VS2_02.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "image",
+   "path": "img_DAM_VS2_03.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "title": "VS2",
+   "icon": "icon_sample_color",
+   "height": 126.0
+  }
+ ],
+ "vclassic": [
+  {
+   "type": "image",
+   "path": "img_vclassic01.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "image",
+   "path": "img_vclassic02.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "image",
+   "path": "img_vclassic03.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "image",
+   "path": "img_vclassic04.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "image",
+   "path": "img_vclassic05.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "image",
+   "path": "img_vclassic06.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "v16mm": [
+  {
+   "type": "image",
+   "path": "img_16mm01.jpg",
+   "ratio": 0.6229
+  },
+  {
+   "type": "image",
+   "path": "img_16mm02.jpg",
+   "ratio": 0.6229
+  },
+  {
+   "type": "image",
+   "path": "img_16mm03.jpg",
+   "ratio": 0.6229
+  },
+  {
+   "type": "image",
+   "path": "img_16mm04.jpg",
+   "ratio": 0.6229
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "v8mm": [
+  {
+   "type": "image",
+   "path": "img_8mm01.jpg",
+   "ratio": 0.748
+  },
+  {
+   "type": "image",
+   "path": "img_8mm02.jpg",
+   "ratio": 1.777
+  },
+  {
+   "type": "image",
+   "path": "img_8mm03.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "image",
+   "path": "img_8mm04.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "vhs": [
+  {
+   "type": "image",
+   "path": "img_vhs01.jpg",
+   "ratio": 0.75
+  },
+  {
+   "type": "image",
+   "path": "img_vhs02.jpg",
+   "ratio": 0.75
+  },
+  {
+   "type": "image",
+   "path": "img_vhs03.jpg",
+   "ratio": 0.75
+  },
+  {
+   "type": "image",
+   "path": "img_vhs04.jpg",
+   "ratio": 0.75
+  },
+  {
+   "type": "image",
+   "path": "img_vhs05.jpg",
+   "ratio": 0.75
+  },
+  {
+   "type": "image",
+   "path": "img_vhs06.jpg",
+   "ratio": 0.75
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "vfuns": [
+  {
+   "type": "image",
+   "path": "img_vfuns01.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "image",
+   "path": "img_vfuns02.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "image",
+   "path": "img_vfuns03.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "image",
+   "path": "img_vfuns04.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "image",
+   "path": "img_vfuns05.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "image",
+   "path": "img_vfuns06.jpg",
+   "ratio": 0.5625
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "dcr": [
+  {
+   "type": "image",
+   "path": "img_dcr01.jpg",
+   "ratio": 0.72
+  },
+  {
+   "type": "image",
+   "path": "img_dcr02.jpg",
+   "ratio": 0.72
+  },
+  {
+   "type": "image",
+   "path": "img_dcr03.jpg",
+   "ratio": 0.72
+  },
+  {
+   "type": "image",
+   "path": "img_dcr04.jpg",
+   "ratio": 0.72
+  },
+  {
+   "type": "image",
+   "path": "img_dcr05.jpg",
+   "ratio": 0.72
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "kino": [
+  {
+   "type": "image",
+   "path": "img_kino01.jpg",
+   "ratio": 1.2
+  },
+  {
+   "type": "image",
+   "path": "img_kino02.jpg",
+   "ratio": 1.2
+  },
+  {
+   "type": "image",
+   "path": "img_kino03.jpg",
+   "ratio": 1.2
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "glow": [
+  {
+   "type": "image",
+   "path": "img_glow01.jpg",
+   "ratio": 0.563
+  },
+  {
+   "type": "image",
+   "path": "img_glow02.jpg",
+   "ratio": 0.563
+  },
+  {
+   "type": "image",
+   "path": "img_glow03.jpg",
+   "ratio": 0.563
+  },
+  {
+   "type": "image",
+   "path": "img_glow04.jpg",
+   "ratio": 0.563
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "voriginal": [
+  {
+   "type": "image",
+   "path": "img_originalv_1.jpg",
+   "ratio": 0.563
+  },
+  {
+   "type": "image",
+   "path": "img_originalv_2.jpg",
+   "ratio": 0.563
+  },
+  {
+   "type": "image",
+   "path": "img_originalv_3.jpg",
+   "ratio": 0.563
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ],
+ "submit": [
+  {
+   "ratio": 0.5,
+   "cameras": [
+    "dazz_camera_ofm"
+   ]
+  }
+ ],
+ "paf": [
+  {
+   "type": "image",
+   "path": "img_PAF_EC100_01.jpg",
+   "ratio": 1.24375
+  },
+  {
+   "type": "image",
+   "path": "img_PAF_EC100_02.jpg",
+   "ratio": 0.8046875
+  },
+  {
+   "type": "image",
+   "path": "img_PAF_EC100_03.jpg",
+   "ratio": 1.2515625
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "title": "EC100",
+   "icon": "icon_sample_color",
+   "height": 126.0
+  },
+  {
+   "type": "image",
+   "path": "img_PAF_EB3000_01.jpg",
+   "ratio": 0.8046875
+  },
+  {
+   "type": "image",
+   "path": "img_PAF_EB3000_02.jpg",
+   "ratio": 1.24453125
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "title": "EB3000",
+   "icon": "icon_sample_color",
+   "height": 126.0
+  }
+ ],
+ "ofm": [
+  {
+   "type": "image",
+   "path": "img_OFM_01.jpg",
+   "ratio": 0.666
+  },
+  {
+   "type": "image",
+   "path": "img_OFM_02.jpg",
+   "ratio": 0.666
+  },
+  {
+   "type": "image",
+   "path": "img_OFM_03.jpg",
+   "ratio": 0.666
+  },
+  {
+   "type": "image",
+   "path": "img_OFM_04.jpg",
+   "ratio": 0.666
+  },
+  {
+   "type": "social",
+   "avator": "@dazz.png",
+   "name": "Dazz",
+   "ins": "dazz.camera",
+   "height": 126.0
+  }
+ ]
+}
